@@ -20,7 +20,7 @@ headers = { "Accept": "application/json, text/plain, */*",
                      'User-Agent':"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
 
                    }
-data=json.dumps({"userName":"face_yhb","userPassword":"123_com_hk","auth_code":"","platformType":"0"})
+data=json.dumps({"userName":"face_yhb","userPassword":"123_xxxxxxxx","auth_code":"","platformType":"0"})
 def post():
         url="https://www.cytingchechang.com/pb/pv/v1/login" ###车场URL
         #url="https://beta.cytingchechang.com/pb/pv/v1/login"
