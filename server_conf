@@ -1,6 +1,6 @@
 120.76.132.209:
     user: root
-    pwd: CYAi2020
+    pwd: xxxxx
     cmd:
         - hostname
         - sh /data/shscript/reboot_data_server.sh
@@ -8,7 +8,7 @@
 
 120.25.153.5:
     user: root
-    pwd: CYAi2020
+    pwd: xxxxx
     cmd:
         - hostname
         - sh /data/shscript/reboot_data_server.sh
