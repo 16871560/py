@@ -27,6 +27,8 @@ class Autocheck_repos():
             # print("需要更新")
             with open("./update.txt", "w") as f:
                 f.write(new_version)
+            # 这里写调用的更新过程
+            pass
         else:
             print("已经是最新。。。。")
             pass
